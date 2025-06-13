@@ -24,8 +24,15 @@ This data science project focuses on providing accurate cost estimations for cus
 
 ### Prerequisites
 
-- Python 3.x
-- Required Python packages (list in requirements.txt)
+- Python 3.13.5
+- Required Python packages
+- pandas
+- numpy
+- re
+- random
+- scikit-learn
+- matplotlib
+- tabulate
 
 ### Installation
 
