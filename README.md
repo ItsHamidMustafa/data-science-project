@@ -4,7 +4,7 @@
 [![Top Language](https://img.shields.io/github/languages/top/ItsHamidMustafa/data-science-project?style=flat&color=0080ff)](https://github.com/ItsHamidMustafa/data-science-project)
 [![Language count](https://img.shields.io/github/languages/count/ItsHamidMustafa/data-science-project?style=flat&color=0080ff)](https://github.com/ItsHamidMustafa/data-science-project)
 
-*Empowering Precise Cost Insights for Custom Builds*
+*Predicting Gaming PC Prices Using PCA, SVD, and Linear Regression*
 
 ## Overview
 
